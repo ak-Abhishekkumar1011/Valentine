@@ -11,7 +11,7 @@ I recently built an interactive proposal page inspired by the Vodafone ZooZoo ch
 - **The Magic:** The "No" button uses a **velocity-tracking algorithm**—the faster you move your mouse, the further it flies away!
 - **The Logic:** As you try to click "No," the "Yes" button grows bigger and bigger, making the choice inevitable. ;)
 - **Tech used:** HTML5, CSS3 (Glassmorphism), Vanilla JavaScript, and Canvas-Confetti.
-- **[🔗 View Live Demo](https://ak-abhishekkumar1011.github.io/valentine-proposal/)** | **[📂 Source Code](https://github.com/ak-Abhishekkumar1011/valentine-proposal)**
+
 
 ---
 
@@ -23,19 +23,6 @@ I recently built an interactive proposal page inspired by the Vodafone ZooZoo ch
 | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) |
 | ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
----
-
-## 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ak-Abhishekkumar1011&show_icons=true&theme=radical" alt="Abhishek's Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-Abhishekkumar1011&layout=compact&theme=radical" alt="Abhishek's Top Languages" height="150" />
-</p>
-
----
-
-## 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
 
 ---
 
